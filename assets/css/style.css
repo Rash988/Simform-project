@@ -5,7 +5,6 @@ ul{
 }
 
 a{
-	display: inline-block !important;
 	text-decoration: none;
 }
 
@@ -80,5 +79,94 @@ a{
 	transition: all linear 0.4s;
 }
 
+
+.hover_about_drop{
+	position: absolute;
+	width: 1000px;
+	margin-left: -380px;
+	margin-top: 50px;
+	display: none;
+}
+
+.center_menu:hover .hover_about_drop{
+	display: block;
+}
+
 /* Header Section Ends */
+
+
+
+
+
+
+/* Footer Section Starts */
+.social img{
+	height: 30px; 
+	width: 150px;
+}
+
+
+.social i{
+	color: gray;
+	font-size: 25px;
+	padding: 8px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.links ul li a{
+	display: block;
+	text-decoration: none;
+	color: gray;
+	margin-left: -40px;
+}
+
+.links ul li a:hover{
+	color: #e63e4c;
+}
+
+
+.areas{
+	margin-left: -40px;
+	margin-right: 40px;
+}
+
+
+.recent{
+	margin-left: 0px;
+}
+
+.recent ul li a{
+	color: gray;
+	padding-bottom: 12px;
+	text-decoration: none;
+	margin-left: -35px;
+}
+
+.recent ul li a:hover{
+	color: #e63e4c;
+}
+
+/* Footer Section Ends */
+
+
+/* Copyright section starts */
+#copyright{
+  background-color: ##c9d0e8;
+}
+/* Copyright section ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
 
