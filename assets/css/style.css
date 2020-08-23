@@ -1,5 +1,9 @@
 
 
+first color{
+	color: #e63e4c;
+}
+
 ul{
 	list-style: none;
 }
@@ -43,28 +47,7 @@ a{
 	transition: all linear 0.3s;
 }
 
-.center_menu:hover .hover_service_drop{
-	display: block;
-}
 
-
-.center_menu{
-  position: relative;
-}
-
-
-.hover_service_drop{
-	position: absolute;
-	background-color: aliceblue;
-	display: none;
-	width: 1100px;
-	z-index: 200;
-	margin-left: -250px;
-}
-
-.drop_col div{
-   width: 190px; 
-}
 
 .contact_button a button{
     color: black;
@@ -80,18 +63,6 @@ a{
 }
 
 
-.hover_about_drop{
-	position: absolute;
-	width: 1000px;
-	margin-left: -380px;
-	margin-top: 50px;
-	display: none;
-}
-
-.center_menu:hover .hover_about_drop{
-	display: block;
-}
-
 /* Header Section Ends */
 
 
@@ -100,6 +71,8 @@ a{
 
 
 /* Footer Section Starts */
+
+
 .social img{
 	height: 30px; 
 	width: 150px;
@@ -112,6 +85,10 @@ a{
 	padding: 8px;
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+
+.links {
+	margin-right: -20px;
 }
 
 
@@ -127,15 +104,6 @@ a{
 }
 
 
-.areas{
-	margin-left: -40px;
-	margin-right: 40px;
-}
-
-
-.recent{
-	margin-left: 0px;
-}
 
 .recent ul li a{
 	color: gray;
@@ -159,6 +127,304 @@ a{
 
 
 
+
+
+
+
+
+
+/* ecommerce page start */
+#banner-ad{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+/* ecommerce page end */
+
+#banner-ad p{
+	padding-top: 30px;
+	font-size: 20px;
+}
+
+#banner-ad p span{
+	color: #e63e4c;
+}
+
+
+#banner-ad img{
+	height: 300px;
+	width: 450px
+}
+
+
+.banner-form form{
+	width: 350px;
+}
+
+#c2{
+	margin-top: -70px !important;
+	z-index: 257425;
+	position: relative;
+	padding-left: 80px;
+}
+
+#c3{
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+.banner-form button{
+	background-color: #e63e4c;
+	border: 1px solid #e63e4c;
+	margin-top: 35px;
+	font-size: 22px;
+	padding-right: 16px;
+	padding-left: 16px;
+}
+
+.banner-form button:hover{
+	background-color: white;
+    color: #e63e4c;
+    border: 1px solid #e63e4c;
+}
+
+
+
+/*  video section start  */
+#vid h1{
+	font-weight: 600;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+#vid p{
+	font-size: 20px;
+	padding-bottom: 35px;
+}
+
+#vid span{
+  color: #e63e4c;
+}      
+/*  video section ends  */
+
+
+
+
+
+
+
+
+/* ecommerce services starts */
+
+#e_services{
+	margin-bottom: 150px;
+}
+
+#e_services h1{
+	margin-top: 80px;
+  padding-top: 120px;
+  padding-bottom: 35px;
+  font-weight: 600;
+}
+
+
+#e_services p{
+	padding-bottom: 35px;
+}
+
+.all i{
+	font-size: 8px;
+	margin-right: 5px;
+	color: #1997aa;
+	margin-left: -20px;
+}
+
+.all p{
+	padding-top: 16px;
+}
+/* ecommerce services ends */
+
+
+/* london-starts */
+
+#london{
+	background-color: #fff2f4;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.london-left img{
+  height: 450px;
+  width: 520px;
+}
+
+
+.london-right img{
+	padding-bottom: 20px;
+}
+
+.london-right h3{
+	padding-bottom: 20px;
+}
+
+.london-right p{
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.c6{
+  width: 260px;
+  height: 260px;
+  padding-top: 40px;
+  padding-left: 65px;
+  border-radius: 50%;
+  border: 1px solid white;
+  background-color: white;
+}
+
+
+.london-right button{
+	border: 2px solid black;
+	padding: 15px 30px;
+	background-color: black;
+	color: white;
+}
+
+.london-right button:hover{
+	transition: all linear 0.3s;
+	background-color: white;
+	color: black;
+	border: 2px solid black;
+}
+/* london-ends */
+
+
+/* toonyport-starts */
+#toonyport{
+	background-color: azure;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.toonyport-left img{
+  height: 450px;
+  width: 520px;
+}
+
+
+.toonyport-right img{
+	margin-top: -30px;
+	padding-bottom: 20px;
+}
+
+.toonyport-right h3{
+	padding-bottom: 20px;
+}
+
+.toonyport-right p{
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.toonyport-right button{
+	border: 2px solid black;
+	padding: 15px 30px;
+	background-color: black;
+	color: white;
+}
+
+.toonyport-right button:hover{
+	transition: all linear 0.3s;
+	background-color: white;
+	color: black;
+	border: 2px solid black;
+}
+
+.t7 h3{
+   font-size: 26px;
+   font-weight: 600;
+}
+
+.c7{
+  width: 320px;
+  height: 300px;
+  padding-top: 40px;
+  padding-left: 65px;
+  border-radius: 50%;
+  border: 1px solid white;
+  background-color: white;
+}
+
+/* toonyports-ends */
+
+/* klickone-starts */
+#klickone{
+	background-color: cornsilk;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.c8{
+  width: 270px;
+  height: 270px;
+  padding-top: 40px;
+  padding-left: 65px;
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 50%;
+}
+/* klickone-ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* features-starts */
+#features{
+	padding-top: 100px;
+}
+
+.tt1 h1{
+  padding-bottom: 30px;
+}
+
+.tt1 p{
+	padding-bottom: 80px;
+}
+
+
+.tt1 span{
+  font-weight: 700;
+}
+
+#features button{
+	margin-top: 50px;
+	border: 2px solid black;
+	padding: 15px 30px;
+	background-color: black;
+	color: white;
+}
+
+
+#features button:hover{
+	transition: all linear 0.3s;
+	border: 2px solid black;
+	background-color: white;
+	color: black;
+}
+
+
+
+/* features-ends */
 
 
 

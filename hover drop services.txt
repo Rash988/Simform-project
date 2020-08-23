@@ -1,0 +1,36 @@
+                                                                          <ul>
+										   <li>
+											<div class="d-inline-block"><a href=""><img src="assets/img/almldev.svg" alt=""> <br>
+											Web Design & Development  </a></div>
+											
+											<div class="d-inline-block"><a href=""><img src="assets/img/appdev.svg" alt=""> <br>
+											Mobile Application Development  </a></div>
+
+											<div class="d-inline-block"><a href=""><img src="assets/img/webapp.svg" alt=""> <br>
+											Digital Marketing  </a></div>
+
+											<div class="d-inline-block"><a href=""><img src="assets/img/api.svg" alt=""> <br>
+											E-Commerce  </a></div>
+
+											<div class="d-inline-block"><a href=""><img src="assets/img/software.svg" alt=""> <br>
+											Custom Software Development <br></a></div>
+										
+
+
+
+											<div class="d-inline-block"><a href=""><img src="assets/img/softtest.svg" alt=""> <br>
+											UI/UX Design  </a></div>
+											
+											<div class="d-inline-block"><a href=""><img src="assets/img/mobileappdev.svg" alt=""> <br>
+											Corporate IT Support</a></div>
+
+											<div class="d-inline-block"><a href=""><img src="assets/img/softproddev.svg" alt=""> <br>
+											IT CONSULTANCY</a></div>
+
+											<div class="d-inline-block"><a href=""><img src="assets/img/ecomdev.svg" alt=""> <br>
+											Graphic Design  </a></div>
+
+											<div class="d-inline-block"><a href=""><img src="assets/img/enterpriseappdev.svg" alt=""> <br>
+											Enterprise Application Development </a></div>
+										</li>
+									</ul>
